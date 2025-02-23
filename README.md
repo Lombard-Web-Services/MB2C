@@ -18,6 +18,8 @@ Example: ./b2c.sh -i /path/to/folder -o output.cue
 * [psx2psp] convert a single .iso or .bin file from psx or ps1 to EBOOT format readable into PSVITA Adrenaline emulator homebrew (/pspemu/PSP/GAME/_gameid_)
 * [adrenaline] PSP or PSX emulator for PSVITA , by theOfficialFlow
 
+### Credits 
+Grok3.
 
 [comment]: #
    [binmerge]: <https://github.com/putnam/binmerge>
