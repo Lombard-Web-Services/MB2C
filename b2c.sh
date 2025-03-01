@@ -47,7 +47,7 @@ done
 if [ -z "$input_folder" ]; then
     echo "By default, selected directory is $input_folder you can choose it using the (-i) argument"
 fi
-# Check if input folder was provided
+# Check if output file was provided
 if [ -z "$output_file" ]; then
     echo "No output file is specified you can setup it with (-o) argument, default is $output_file"
 fi
